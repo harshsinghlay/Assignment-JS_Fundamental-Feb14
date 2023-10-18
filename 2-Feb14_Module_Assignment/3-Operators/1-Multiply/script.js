@@ -1,0 +1,11 @@
+let number = 6;
+console.log(" 6  *  1   =  " + (6 * 1));
+console.log(" 6  *  2   =  " + (6 * 2));
+console.log(" 6  *  3   =  " + (6 * 3));
+console.log(" 6  *  4   =  " + (6 * 4));
+console.log(" 6  *  5   =  " + (6 * 5));
+console.log(" 6  *  6   =  " + (6 * 6));
+console.log(" 6  *  7   =  " + (6 * 7));
+console.log(" 6  *  8   =  " + (6 * 8));
+console.log(" 6  *  9   =  " + (6 * 9));
+console.log(" 6  *  10  =  " + (6 * 10));
